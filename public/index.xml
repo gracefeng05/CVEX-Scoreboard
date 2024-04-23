@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVEX Scoreboard</title>
+    <link>https://example.org/</link>
+    <description>Recent content on CVEX Scoreboard</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scoreboard</title>
+      <link>https://example.org/scoreboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/scoreboard/</guid>
+      <description>CVEX ScoreboardYou need to enable JavaScript to run this app.ScoreboardCVE SearchHow To Create a CVEXHow To Run a CVEXCVEXecute RequirementsUsers?Dashboard&#xA;Profile&#xA;content_copyCVEX&#34;s added over the last year&#xA;0Sent Most Upvotes&#xA;etrickel 166 Total Users&#xA;23info_outlineTotal CVEs&#xA;161068Filters:CVEXsPopular CVEsNew CVEs1 of 2RankCVEXCVEShort Desc1cvex-210825-001CVE-2012-1823sapi/cgi/cgi_main.c in PHP before 5.3.12 and 5.4.x before 5.4.2, when configured as a CGI script (ak2cvex-210825-004CVE-2019-16278Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker 3cvex-210825-015CVE-2017-5638The Jakarta Multipart parser in Apache Struts 2 2.</description>
+    </item>
+  </channel>
+</rss>
